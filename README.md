@@ -1,3 +1,3 @@
-# todoapp
+# ToDo App
 
-Here will be a nice getting started readme etc.
+Demo: https://www.youtube.com/watch?v=XNhW0AnXCTU
