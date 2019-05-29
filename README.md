@@ -1,2 +1,3 @@
-# todoapp-lwc-open-source
-This is todo app built using LWC open source. (lwc.dev)
+# todoapp
+
+Here will be a nice getting started readme etc.

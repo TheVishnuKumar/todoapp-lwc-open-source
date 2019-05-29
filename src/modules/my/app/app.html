@@ -1,0 +1,15 @@
+<template>
+    <div style="background: #a8e1e5;padding: 20px;font-size: 20px;">
+        Todos - Built Using LWC Open Source
+    </div>
+
+    <div align="center" style="margin: 20px;">
+        <template for:each={todoList} for:item="todo">
+            <my-todoitem key={todo.key} todo={todo}></my-todoitem>
+        </template>
+    </div>
+
+    <div align="center">
+        <button onclick={addRow}>Add</button>
+    </div>
+</template>
